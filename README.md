@@ -1,2 +1,2 @@
 # Interview-Series
-Interview Questions asked on different technologies.
+Interview questions asked on different technologies.
